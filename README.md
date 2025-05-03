@@ -21,6 +21,8 @@ npm install
 npm run dev
 ```
 
+App live link
+https://manish-nagar-000.github.io/database/
 ## Disclaimer
 
 Use at your own risk; not a supported MongoDB product
